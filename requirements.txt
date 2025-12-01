@@ -1,0 +1,11 @@
+Django==3.2.25
+playwright==1.48.0
+pytest==8.3.3
+pytest-django==4.9.0
+pytest-playwright==0.5.2
+pytest-html==4.1.1
+pytest-xdist==3.6.1
+Faker==30.8.2
+pytest-cov==6.0.0
+selenium==4.26.1
+webdriver-manager==4.0.2
